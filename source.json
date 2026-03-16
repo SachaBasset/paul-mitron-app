@@ -1,0 +1,20 @@
+{
+  "name": "Imaginable",
+  "identifier": "com.sacha.source",
+  "apps":[
+    {
+      "name": "Paul Mitron",
+      "bundleIdentifier": "com.sachabassetchercot.paulmitron",
+      "developerName": "Sacha Basset-Chercot",
+      "version": "1.1",
+      "versionDate": "2026-03-16",
+      "versionDescription": "Lancement officiel. Cette application ludo-éducative pour les enfants est laïque, apolitique et gratuite. Elle est mise à disposition selon les termes de la Licence Creative Commons CC BY-NC-ND 4.0.",
+      "downloadURL": "https://github.com/SachaBasset/paul-mitron-app/releases/download/v.1.1/PaulMitron.ipa",
+      "localizedDescription": "Vivez les aventures de Paul, le petit mitron, dans cette histoire interactive où vous décidez de son destin !",
+      "iconURL": "https://github.com/SachaBasset/paul-mitron-app/blob/main/icon.png",
+      "tintColor": "#C58B78",
+      "size": 45000000,
+      "beta": false
+    }
+  ]
+}
